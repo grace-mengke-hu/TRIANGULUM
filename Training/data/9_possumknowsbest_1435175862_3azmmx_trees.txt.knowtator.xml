@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="9_possumknowsbest_1435175862_3azmmx_trees.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2590" />
+        <annotator id="eHOST_2010">Ryzen</annotator>
+        <span start="4" end="9" />
+        <spannedText>cones</spannedText>
+        <creationDate>Thu Oct 24 17:54:39 MDT 2019</creationDate>
+    </annotation>
+    <stringSlotMention id="EHOST_Instance_2593">
+        <mentionSlot id="SELF_OTHER_GENERAL" />
+        <stringSlotMentionValue value="general_discussion" />
+    </stringSlotMention>
+    <complexSlotMention id="EHOST_Instance_2594">
+        <mentionSlot id="COMBUST_MJ_TO_VAPING_MJ" />
+        <attribute id="PRESENT_HISTORICAL_FUTURE">historical</attribute>
+        <attribute id="SELF_OTHER_GENERAL">self</attribute>
+        <complexSlotMentionValue value="EHOST_Instance_2591" />
+    </complexSlotMention>
+    <complexSlotMention id="EHOST_Instance_2595">
+        <mentionSlot id="COMBUST_MJ_TO_VAPING_MJ" />
+        <complexSlotMentionValue value="EHOST_Instance_2592" />
+    </complexSlotMention>
+    <classMention id="EHOST_Instance_2590">
+        <hasSlotMention id="EHOST_Instance_2593" />
+        <hasSlotMention id="EHOST_Instance_2594" />
+        <hasSlotMention id="EHOST_Instance_2595" />
+        <mentionClass id="COMBUST_MJ">cones</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2591" />
+        <annotator id="eHOST_2010">Mike</annotator>
+        <span start="17" end="24" />
+        <spannedText>perfect</spannedText>
+        <creationDate>Mon Jan 06 22:58:02 MST 2020</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2591">
+        <mentionClass id="VAPING_MJ">perfect</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2592" />
+        <annotator id="eHOST_2010">Mike</annotator>
+        <span start="25" end="34" />
+        <spannedText>afternoon</spannedText>
+        <creationDate>Mon Jan 06 23:10:20 MST 2020</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2592">
+        <mentionClass id="VAPING_MJ">afternoon</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0">
+            <Annotator>Mike</Annotator>
+            <Annotator>Ryzen</Annotator>
+            <Annotator>ADJUDICATION</Annotator>
+        </Adjudication_Selected_Annotators>
+        <Adjudication_Selected_Classes version="1.0">
+            <Class>COMBUST_MJ</Class>
+            <Class>COMBUST_TOBACCO</Class>
+            <Class>VAPING_MJ</Class>
+            <Class>SMOKING_CESSATION</Class>
+            <Class>VAPING_NIC/TOBACCO</Class>
+            <Class>DUAL-USE_COMBUST_MJ_COMBUST_TOBACCO</Class>
+            <Class>CO-USE_COMBUST_MJ_COMBUST_TOBACCO</Class>
+        </Adjudication_Selected_Classes>
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>true</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>true</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>true</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>true</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
