@@ -1,0 +1,52 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>17489f40-9c03-4add-b286-5fc425bbbb9c</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>Annotation</Name>
+    <RootNamespace>Annotation</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="annotDataFeatureMongo.py" />
+    <Compile Include="annotDataFeatureMongo_relationship.py" />
+    <Compile Include="annotStat.py" />
+    <Compile Include="CollectRelationshipData.py" />
+    <Compile Include="reader.py" />
+    <Compile Include="TagAndRelationshipCount.py" />
+    <Compile Include="TagAndRelationshipDistribution.py" />
+    <Compile Include="testFindAnnot.py" />
+    <Compile Include="testFindAnnotRelationship.py" />
+    <Compile Include="testRulebased.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="101_218_findAnotData.p" />
+    <Content Include="11_50_findAnotData.p" />
+    <Content Include="218_1000_findAnotData.p" />
+    <Content Include="4_10_findAnotData.p" />
+    <Content Include="51_100_findAnotData.p" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
