@@ -1,0 +1,8 @@
+(lp0
+VI also wanna introduce you to my lil friend called [Suorin Air](https://www.suorinusa.com/collections/suorin-air?gclid=EAIaIQobChMI9trembS63wIVSh-tBh2kQgKKEAAYAiAAEgJqKvD_BwE) I use to have a phix (which was like a thicker &amp; taller juul) and so i know damn well how expensive it is to keep up that too. Buying pods is not cheap. I switched over to an Air, and i started saving a shit ton more money too. They\u2019re portable and discreet which i really like, but the only difference is \u2014 it\u2019s legit empty pods, and you buy the juice you want and just refill (one pod lasts up to 6 refills) and a decent size juice is about $20-$25 but it will last you AT LEAST a month. While the pods are around $3-$5 each. You have more flavor options \u2014 and you can control how much nicotine too (50-60 is about the same as a juul) I started saving AT LEAST an extra $50 a month just by switching. \u000a\u000ai\u2019m not tryna change your mind on anything, I just know how hard it is to try and keep up these habits while being broke as fuck hahaha :-) \u000a\u000a(if you\u2019re seriously interested, i could send you a link to a website that sells them cheaper than the actual suorin air website, it\u2019s where i order my juice and pods from) 
+p1
+aV[Ask and you shall receive!](https://www.elementvape.com/catalogsearch/result/?q=suorin+air) \u000a\u000aif i can manage all of this on a paycheck of about $300 every 2 weeks with me still being able to put $100 out of each check away for savings, you can too! haha 
+p2
+aVAlso, forgot to mention: when buying juice for the Suorin Air, make sure it\u2019s salt nic juice. Just type it in the search bar and you\u2019ll get a whole bunch of options haha. 
+p3
+a.
