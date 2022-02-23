@@ -21,3 +21,6 @@ It contains the codes that extracts the annotation and relation labels from anno
 
 ## 4. Plot
 It includes all the scripts for plotting the results.
+
+## 5. JUUL
+It uses TRIANGULUM data to discover the behavior of JUUL usage.
